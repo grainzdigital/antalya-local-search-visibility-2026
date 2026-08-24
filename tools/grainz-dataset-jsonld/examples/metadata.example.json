@@ -1,0 +1,25 @@
+{
+  "name": "Antalya Local Search Visibility Benchmark 2026",
+  "description": "An anonymized local-search visibility benchmark for Antalya.",
+  "url": "https://www.grainzdigital.com/research/antalya-local-search-visibility-2026",
+  "identifier": "Grainz-ALSV-2026-v1.0.0",
+  "creator": "Grainz Digital",
+  "creatorUrl": "https://www.grainzdigital.com/",
+  "datePublished": "2026-08-24",
+  "version": "1.0.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "spatialCoverage": "Antalya, Türkiye",
+  "temporalCoverage": "2026-08-24",
+  "keywords": [
+    "Antalya",
+    "local SEO",
+    "local search"
+  ],
+  "sameAs": [],
+  "distribution": [
+    {
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://www.grainzdigital.com/data/antalya-local-search-visibility-2026.csv"
+    }
+  ]
+}

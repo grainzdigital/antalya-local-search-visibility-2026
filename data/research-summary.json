@@ -1,0 +1,19 @@
+{
+  "observations": 60,
+  "sectors": 18,
+  "districts": 4,
+  "rating_observations": 59,
+  "average_rating": 4.73,
+  "median_rating": 4.8,
+  "median_review_count": 188,
+  "mean_review_count": 716.6,
+  "rating_4_5_plus_pct": 88.1,
+  "rating_4_8_plus_pct": 54.2,
+  "reviews_100_plus_pct": 67.8,
+  "reviews_500_plus_pct": 23.7,
+  "reviews_1000_plus_pct": 18.6,
+  "address_listed_pct": 100.0,
+  "phone_listed_pct": 96.7,
+  "hours_listed_pct": 90.0,
+  "price_listed_pct": 21.7
+}
