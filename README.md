@@ -31,7 +31,7 @@ This is a **purposeful local-search visibility sample**, not a random sample of 
 ## Reuse
 - Code: MIT
 - Original dataset/analysis: CC BY 4.0, to the extent permitted; third-party names/marks and source-platform rights are not relicensed.
-- Public rows are anonymized.
+- Public rows are anonymized...
 
 ## Cite
 See `CITATION.cff`. After the Zenodo release is published, add its DOI here.
